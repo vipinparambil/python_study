@@ -13,10 +13,10 @@ print(f"list comprehension : {words_leng}")
 
 # set comprehensive
 set_fact = [len(str(math.factorial(x))) for x in range(20)]
-print(f"set comprhension: {set_fact}")
+print(f"set comprehension: {set_fact}")
 
 # dictionary comprehension
-# genral form : {key_exp(key) : value_expr(value) for key , value in iterables}
+# general form : {key_exp(key) : value_expr(value) for key , value in iterables}
 country_to_capital = { 'United Kingdom': 'UK',
                        'India': 'Delhi',
                        'Moroco': 'Rabat',
