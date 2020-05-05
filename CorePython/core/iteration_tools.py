@@ -1,7 +1,7 @@
 # iteration tools
 
 
-from comprehension_with_fiter import is_prime
+from core.comprehension_with_fiter import is_prime
 from itertools import islice, count
 
 # itertools.islice() - slicing of the iterator

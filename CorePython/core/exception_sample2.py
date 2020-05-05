@@ -1,7 +1,7 @@
 # raise exception
 
 from math import log
-from exception_start import convertex2
+from core.exception_start import convertex2
 
 
 def logvalue(s):

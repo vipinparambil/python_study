@@ -1,4 +1,4 @@
-import words
+from core import words
 
 # print words type
 print(type(words))
